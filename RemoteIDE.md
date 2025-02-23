@@ -109,3 +109,9 @@ This setup allows you to work on your GitHub Codespaces projects directly within
 ---
 
 Let us know if you'd like to adjust anything else! 😊
+
+---
+
+## Is there any additional cost associated with using GitHub Codespaces with JetBrains IDEs?
+
+
